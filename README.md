@@ -13,7 +13,7 @@ Creating an Arduino device capable of controlling on/off switches for lamps via 
   
 ## Steps to Create the Project:
 <p align="center">
-    <img src='/img/skema.png'>
+    <img src='/img/skema.jpg'>
 </p>
 1. Develop the program to control the lamps by using the code in my repository
 2. Upload it to the NodeMCU ESP8266 using the USB cable.
