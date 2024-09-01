@@ -1,3 +1,3 @@
 # Smart-Lamp
 
-A simple IoT project based on Arduino that functions to turn lights on and off using a web browser.
+Creating an Arduino device capable of controlling on/off switches for lamps via a local web using the ESP8266 module.
