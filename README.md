@@ -15,7 +15,7 @@ Creating an Arduino device capable of controlling on/off switches for lamps via 
 <p align="center">
     <img src='/img/skema.jpg'>
 </p>
-1. Develop the program to control the lamps by using the code in my repository
+1. Develop the program to control the lamps by using the code in my repository <br>
 2. Upload it to the NodeMCU ESP8266 using the USB cable.
 3. Connect the jumper wires between the NodeMCU and the relay module according to the required configuration.
 4. Connect the lamps using the electrical cables.
